@@ -138,6 +138,9 @@ iframe {
   margin-top: 0;
   margin-bottom: 15px;
 }
+.header .profile-content .social {
+  display: initial;
+}
 .header .profile-content .social a {
   background: #b0b7bf;
   width: 36px;
